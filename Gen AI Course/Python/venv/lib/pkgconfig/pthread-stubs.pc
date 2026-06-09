@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+
+Name: pthread stubs
+Description: Stubs missing from libc for standard pthread functions
+Version: 0.3
+Libs: 

@@ -1,0 +1,11 @@
+prefix=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: XCB GLX
+Description: XCB GLX Extension
+Version: 1.17.0
+Requires.private: xcb
+Libs: -L${libdir} -lxcb-glx
+Cflags: -I${includedir}

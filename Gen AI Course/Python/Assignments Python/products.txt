@@ -1,0 +1,3 @@
+apple|120
+laptop|70000
+bottle|800

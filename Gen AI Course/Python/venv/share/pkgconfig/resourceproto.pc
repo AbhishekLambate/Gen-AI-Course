@@ -1,0 +1,7 @@
+prefix=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv
+includedir=${prefix}/include
+ 
+Name: ResourceProto
+Description: Resource extension headers
+Version: 1.2.0
+Cflags: -I${includedir}

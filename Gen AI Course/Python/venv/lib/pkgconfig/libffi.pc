@@ -1,0 +1,11 @@
+prefix=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.8
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

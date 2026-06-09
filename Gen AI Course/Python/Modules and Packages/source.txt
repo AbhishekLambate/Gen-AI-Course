@@ -1,0 +1,3 @@
+Hello my name is Abhishek
+I am leaning GEN AI
+we are looking the funcionality of shutil library

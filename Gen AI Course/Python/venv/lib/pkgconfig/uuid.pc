@@ -1,0 +1,11 @@
+prefix=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv
+exec_prefix=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv
+libdir=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv/lib
+includedir=/home/ubuntu/Documents/Abhi_Important/Gen-AI-Course/Gen AI Course/Python/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
